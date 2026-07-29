@@ -32,17 +32,31 @@
 [`git reflog`: View a log of local reference updates](reflog.md)
    
 
-### Grow, mark and tweak your common history
-[git backfill](backfill.md)   
-[git branch  ](branch.md)   
-[git commit  ](commit.md)   
-[git merge   ](merge.md)   
-[git rebase  ](rebase.md)   
-[git reset   ](reset.md)   
-[git switch  ](switch.md)   
-[git tag     ](tag.md)   
+# Grow, mark and tweak your common history
+[`git backfill`](backfill.md)   
 
-### collaborate 
-[git fetch](fetch.md)      
-[git pull ](pull.md)      
-[git push ](push.md)  
+[`git branch`: List, create, copy, or delete branches](branch.md)   
+
+[`git commit`: Record the staged changes as a historical snapshot](commit.md)  
+
+[`git merge`: Combine histories from separate branches together](merge.md)   
+
+[`git rebase`: Reapply commits from one branch on top of another](rebase.md)   
+
+[`git reset`   ](reset.md)   
+
+[`git switch`: Explicitly switch to a specified branch](switch.md)   
+
+[`git tag`: Assign meaningful labels to specific commits](tag.md)   
+
+[`git cherry-pick`: Apply the exact changes introduced by a specific existing commit](cherrypick.md)
+ 
+
+# collaborate 
+[`git fetch`: Download objects and references from a remote repository without merging](fetch.md)      
+
+[`git pull`: Fetch updates from a remote repository and immediately merge them](pull.md)    
+
+[`git push`: Upload local repository modifications to a remote repository](push.md)   
+
+[`git remote`: Manage your list of tracked remote repositories](remote.md)
