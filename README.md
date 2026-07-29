@@ -49,7 +49,7 @@
 
 [`git tag`: Assign meaningful labels to specific commits](tag.md)   
 
-[`git cherry-pick`: Apply the exact changes introduced by a specific existing commit](cherrypick.md)
+[`git cherry-pick`: Apply the exact changes introduced by a specific existing commit](cherry-pick.md)
  
 
 # collaborate 
