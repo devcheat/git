@@ -1,4 +1,4 @@
-# Git `add` Command: The Complete Guide
+# `git add`
 
 ## Introduction
 
