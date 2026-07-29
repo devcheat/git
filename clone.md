@@ -1,5 +1,4 @@
-# Git `clone` Command: The Complete Guide
-
+# `git clone`
 ## Introduction
 
 `git clone` is the command used to create a copy of an existing Git repository. It downloads repository data, commit history, branches, tags, and configuration needed to begin working on a project.
