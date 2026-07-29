@@ -3,7 +3,9 @@
 ### Start a working area
 [`git clone`: Copy an existing remote repository locally](clone.md)      
 
-[`git init`: Initialize a brand new local repository](init.md)       
+[`git init`: Initialize a brand new local repository](init.md)    
+
+[`git config`: Manage configuration options](config.md) 
 
 ### Work on the current change 
 [`git add`: Stage file modifications to prepare for a commit](add.md)    
