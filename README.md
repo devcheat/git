@@ -43,8 +43,6 @@
 
 [`git rebase`: Reapply commits from one branch on top of another](rebase.md)   
 
-[`git reset`   ](reset.md)   
-
 [`git switch`: Explicitly switch to a specified branch](switch.md)   
 
 [`git tag`: Assign meaningful labels to specific commits](tag.md)   
@@ -60,3 +58,12 @@
 [`git push`: Upload local repository modifications to a remote repository](push.md)   
 
 [`git remote`: Manage your list of tracked remote repositories](remote.md)
+
+# Stashing & Cleaninig
+[`git stash`: Temporarily shelf modified files to get a clean working directory](stash.md)
+
+[`git clean`: Remove untracked files from your working tree](clean.md)
+
+[`git reset`: Reset the current state or undo local changes to a specific commit](reset.md)
+
+[`git revert`: Create a new commit that completely undoes the effects of an old commit](revert.md)
