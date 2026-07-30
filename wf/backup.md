@@ -18,6 +18,9 @@ git remote -v
 mkdir [backup.git]
 cd [backup.git]
 git init --bare
+
+# Important: Point HEAD to your actual default branch (e.g., main)
+git symbolic-ref HEAD refs/heads/main
 ```
 
 ## 4. Change the remote URL to your new existing repository or 
